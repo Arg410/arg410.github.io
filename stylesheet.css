@@ -13,13 +13,23 @@ p{ font-family: fourtenfont;
 
 a{
   text-decoration: none;
-  color: #F47321;
+
+  color: #161515;
+}
+a:hover{
+  text-decoration: none;
+
+  color: #696969;
 }
 
 .beblue {
   color: blue;
 }
 .beorange {
+  color: #F47321;
+
+}
+.beorange:hover {
   color: #F47321;
 
 }
