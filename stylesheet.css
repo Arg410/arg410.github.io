@@ -1,0 +1,68 @@
+@font-face {
+    font-family: fourtenfont;
+    src: url("410FONT.ttf");
+
+}
+
+body {
+  background-color: #696969;
+
+}
+p{ font-family: fourtenfont;
+}
+
+a{
+  text-decoration: none;
+  color: #F47321;
+}
+
+.beblue {
+  color: blue;
+}
+.beorange {
+  color: #F47321;
+
+}
+
+.square {
+  font-family: fourtenfont;
+}
+.box {
+  -moz-transition: all .2s ease-in;
+    -o-transition: all .2s ease-in;
+    -webkit-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+	position:relative;
+    outline: #2309FF;
+    color: #000;
+    background-color: #F47321;
+    width: 100px;
+
+    font-family: fourtenfont;
+    font-size: 45px;
+float: center;
+
+}
+
+.box:hover{
+color: #696969;
+}
+.one{
+line-height: 57px;
+width: 200px;
+height: 120px;
+
+
+
+}
+.two{
+width: 200px;
+height: 132px;
+
+
+}
+.heads {
+  background-color: #F47321;
+  color: #696969;
+width: 100%;
+}
